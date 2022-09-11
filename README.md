@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MRjeanba, student at Concordia University in Software engineering
+- 👋 Hi, I’m @MRjeanba, student at Concordia University in Computer Science
 - 👀 I’m interested in the new technologies, the web development, the cryptocurrencies and the cybersecurity, I always want to learn more !
 - 🌱 I’m currently learning web development, java, bash scripting 
 - 💞️ I’m looking to collaborate on projects, review of project 
