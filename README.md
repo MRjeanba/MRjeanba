@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MRjeanba, student at Concordia University in Computer Science
-- 👀 I’m interested in the new technologies, the web development, the cryptocurrencies and the cybersecurity, I always want to learn more !
-- 🌱 I’m currently learning web development, java, bash scripting 
+- 👋 Hi, I’m Jean Baptiste Garibo, student at Concordia University in Computer Science
+- 👀 I’m interested in the new technologies, the web development, machine learning and AI and I always want to learn more !
+- 🌱 I’m currently learning web development, java, python etc...
 - 💞️ I’m looking to collaborate on projects, review of project 
 - 📫 How to reach me : Linkdin https://www.linkedin.com/in/jean-baptiste-garibo-12772a226 
 
